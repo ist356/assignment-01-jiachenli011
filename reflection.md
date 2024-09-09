@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Because I haven't touched python for a long time, I had some difficulties when I started writing code. Then I looked up the solution, which reminded me of how to write code. I also asked about the usage and examples of ChatGPT append. In addition, I am still familiar with this new software and have some problems pull back to github.
